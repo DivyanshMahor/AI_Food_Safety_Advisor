@@ -63,3 +63,5 @@ Team Members
 
 Divyansh Mahor (BCAN1CA23144)
 Ananya Bhadoria (BCAN1CA23108)
+Vikash Pal (BCAN1CA23093)
+Aditya Rawat (BCAN1CA23115)
