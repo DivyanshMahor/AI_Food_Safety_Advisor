@@ -8,6 +8,8 @@ It helps users understand whether food is **Safe to Eat, Eat Soon, or Not Safe**
 
 ---
 
+Live Project link -> https://ai-food-safety-advisor-awvstrb4ud3u43crt7kn6g.streamlit.app/
+
 ## ✨ Features
 
 - 🍎 Food detection using CNN (MobileNetV2)
