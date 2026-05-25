@@ -77,7 +77,8 @@ Some foods may be misclassified
 🛒 Grocery integration system
 
 👨‍💻 Developer
-Name: Divyansh Mahor
+Name: Divyansh Mahor & Ananya Bhadoria
+
 Project: AI Food Safety Advisor
 Type: AI / Machine Learning Web App
 
